@@ -6,5 +6,5 @@ Maya Mohammad Iqtaish
 Yaqeen Elham Qudah
 Marya Omar Alsaadi
 Hadeel Yousef Rashaidah
-Supervised By:
+  Supervised By:
 Dr. Qasem Abu Al-Haija
